@@ -1,0 +1,5 @@
+bin
+obj
+.vs
+SimConnect.dll
+*.user
